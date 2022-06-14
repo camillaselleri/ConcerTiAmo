@@ -1,0 +1,207 @@
+body { margin:  0px; font-family: 'Lora', serif; }
+
+header { 
+	background-color: lightpink;
+	color: lightyellow;
+	padding: 1% 5% 0% 5%;
+	text-align: center;
+ }
+
+h1 { 
+	font-size: 5em;
+	text-align: center;
+	font-style: italic;
+}
+
+nav { text-align: center; }
+
+nav ul {
+	list-style-type: none;
+	padding-left: 0px !important;
+}
+
+nav ul li {
+	display: inline-block;
+	background-color: lightyellow;
+	color: lightpink;
+	padding: 10px;
+	border-top-left-radius: 35px;
+	border-bottom-right-radius: 25px;
+}
+
+.whitelink { 
+	text-decoration: none; 
+	color: lightpink;
+	font-size: 2em;
+}
+
+#homeimage { 
+	max-width: 70%;
+	margin: 10px 15%;
+}
+
+#homeicon { 
+	font-size: 2em;
+ }
+
+#logo {
+	max-width: 45%;
+	margin: 7% 15% 0% 15%;
+}
+
+.indieimg {
+	max-width: 35%;
+	margin: 10px 15%;
+}
+
+.popimg {
+	max-width: 35%;
+	margin: 10px 15%;
+}
+
+.trapimg {
+	max-width: 35%;
+	margin: 10px 15%;
+}
+
+h2 { font-size: 2em !important; 
+	text-align: center;
+	font-style: italic;
+}
+
+h3 { font-size: 1.5em !important; 
+	text-align: center;
+	font-style: italic;
+}
+
+h4 {
+	font-size: 2em !important;
+	font-family: 'Lora', serif;
+	text-align: center;
+	font-style: italic;
+}
+
+#frasechiave { color: deeppink; }
+
+#frasedue { text-decoration: underline; }
+
+#numdom { color: deeppink; }
+
+#doc {
+	font-size: 1.5em;
+	font-style:italic ;
+}
+
+.architettura {
+	max-width: 35%;
+	margin: 15px 20%;
+}
+
+#risposte {
+	font-size: 1em !important;
+	font-style: normal;
+}
+
+.btnquiz {
+	font-size: 1em;
+	background-color: lightpink;
+	color: deeppink;
+	text-decoration: none;
+	cursor: pointer;
+
+}
+
+.btnrisp {
+	font-size: 1em;
+	background-color: lightpink;
+	color: deeppink;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.btnhome { 
+	font-size: 1em;
+	background-color: lightpink;
+	color: deeppink;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.btndoc {
+	font-size: 1.5em;
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
+.domandauno {
+	max-width: 25%;
+	margin: 10px 15%;
+}
+
+.domandadue {
+	max-width: 25%;
+	margin: 10px 15%;
+}
+
+.domandaquattro {
+	max-width: 25%;
+	margin: 10px 15%;
+}
+
+.domandacinque {
+	max-width: 25%;
+	margin: 10px 15%;
+}
+
+.domandasette {
+	max-width: 25%;
+	margin: 10px 15%;
+}
+
+main {
+	background-color: lightyellow;
+	text-align: center;
+	font-size: 1.5em;
+	padding: 10%;
+	margin: 0%;
+}
+
+#tipologie {
+	text-align: center;
+	color: deeppink;
+	font-style: italic;
+	font-size: 1.5em;
+}
+
+.contatti { 
+	text-align: center; 
+	font-size: 1.5em;
+}
+
+footer {
+	padding: 0%;
+	margin: 0%;
+	background-color: lightpink;
+}
+
+#iconaig {
+	font-size: 1em;
+	color: black;
+}
+
+#homeicon { 
+	font-size: 6em; 
+	color: lightyellow;
+
+}
+
+li.active a { color: hotpink; }
+
+.active { background-color: lightyellow; }
+
+.instagram {
+	max-width: 25%;
+	margin: 10px 15%;
+}
